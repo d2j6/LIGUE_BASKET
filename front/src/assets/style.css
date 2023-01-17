@@ -1,0 +1,13 @@
+.ui.grid.allChampionnat{
+    margin-top:50px;
+    background-color: red;
+}
+
+.ui.grid.allChampionnat .row .column{
+
+    width: 150px;
+    cursor: pointer;
+
+
+}
+
